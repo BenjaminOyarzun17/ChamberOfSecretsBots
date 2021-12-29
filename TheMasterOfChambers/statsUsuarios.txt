@@ -1,0 +1,4 @@
+{"usuario": "trinivillegasm#2849", "casa": "Ravenclaw", "patronus": "Armi\u00f1o"}
+{"usuario": "Benha#6633", "casa": "Ravenclaw", "patronus": "Lobo"}
+{"usuario": "sevamon234#3262", "casa": "Hufflepuff", "patronus": ""}
+{"usuario": "Joselito_32#5970", "casa": "Gryffindor", "patronus": ""}
