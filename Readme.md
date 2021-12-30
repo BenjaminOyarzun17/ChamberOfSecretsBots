@@ -47,7 +47,7 @@ This command assigns a course role. The possible courses are ["4toMedio","2doMed
 It performs a Harry Potter spell. The author encourages the user to test a few of them to see what happens. 
 ## `*help`
 Sends an embed that resumes all the commands that are publicaly available (this also considers the other three bots).
-## `iniciar test de casas`
+## `*iniciar test de casas`
 If the user does not belong to any hogwarts house, it randomly assigns a house to the user. 
 # Final words
 This project was implemented during 2020's quarantine. It's aim was to reduce the social distance created by covid by creating a common platform where the students had a chance to gather and enjoy themselves. The server is still active, but nowadays it is not anymore what it used to be. 
